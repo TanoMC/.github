@@ -5,7 +5,7 @@
 
 Hey, this is us 👋!
 
-We are a Minecraft Java Edition network that follows a StarWars themed concept.
+We are a Minecraft Java Edition network that follows a StarWars themed concept. Founded: October 2021 🍁
 
 
 
